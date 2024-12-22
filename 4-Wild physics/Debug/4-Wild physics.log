@@ -1,0 +1,12 @@
+﻿  Final.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU6-LucasBoffa\4-Wild physics\Final.cpp(18,25): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  Game.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU6-LucasBoffa\4-Wild physics\Bang.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Game.cpp")
+  
+  main.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU6-LucasBoffa\4-Wild physics\Bang.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "main.cpp")
+  
+  Generando código...
+  4-Wild physics.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU6-LucasBoffa\Debug\4-Wild physics.exe
